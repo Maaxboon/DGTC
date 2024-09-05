@@ -10,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2knDgnCdbuYmVhPmEPrT4OSocdt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +20,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.js-fundamentals.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "nodejs_package_manager_path": "npm",
@@ -42,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723910561558</updated>
       <workItem from="1723910564582" duration="20000" />
+      <workItem from="1724827934809" duration="90000" />
     </task>
     <servers />
   </component>
