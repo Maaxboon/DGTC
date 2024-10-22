@@ -27,3 +27,4 @@ console.log(23 % 5); //4r3
 console.log(24 % 5); //4r4
 console.log(25 % 5); //5r0
 console.log(26 % 5); //5r1
+console.log(7 % 10); //0r7
