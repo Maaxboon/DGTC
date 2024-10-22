@@ -29,3 +29,14 @@ console.log(true || (true && false)); // true
 console.log(false && !(false || true)); // false
 
 // In general, A || B && C is equivalent to A || (B && C) where A, B, and C are booleans.
+
+/* De Morgan's Law
+A common mistake in boolean logic is to incorrectly distribute ! across parentheses. Say we had boolean values of A, B. Here is something to remember:
+
+!(A || B) is equivalent to !A && !B
+!(A && B) is equivalent to !A || !B
+In other words, to correctly distribute ! across parentheses, we must also flip the operation within parentheses. Beware that:
+
+!(A || B) is not equivalent to !A || !B
+!(A && B) is not equivalent to !A && !B
+We call this property De Morgan's Law. Shout out to Augustus De Morgan of Great Britain. */
