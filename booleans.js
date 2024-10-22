@@ -24,3 +24,8 @@ console.log(false || false); // false
 
 // Logical order of operations
 // We can write boolean expressions that consist of multiple logical operations, but we should be aware of the order of operations. JavaScript will evaluate ! then && then ||.
+console.log(true || (true && false)); // true
+
+console.log(false && !(false || true)); // false
+
+// In general, A || B && C is equivalent to A || (B && C) where A, B, and C are booleans.
