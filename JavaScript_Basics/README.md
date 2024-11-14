@@ -23,3 +23,9 @@
 - Goal: Learn to make decisions in code using if statements.
 - File: conditionals.js
 - Exercise: In conditionals.js, write a function to evaluate a player’s performance.
+
+5. Loops
+
+- Goal: Understand how to use loops to repeat code.
+- File: loops.js
+- Exercise: In loops.js, create a loop to display all the player’s favorite teams.
