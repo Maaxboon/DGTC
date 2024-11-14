@@ -1,3 +1,7 @@
+/*Learning Tasks:
+Change the playerName and age values.
+Try adding more teams to favoriteTeams.*/
+
 let playerName = "Michael Olunga"; // String
 const age = 30; // Number
 var isProfessional = true; // Boolean
