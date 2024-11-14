@@ -8,4 +8,4 @@ console.log("Total Points:", totalPoints); // Addition
 console.log("Average Points:", averagePoints); // Division
 
 // Comparison
-// console.log("Did the player score more than 5 goals?", goals > 5);
+console.log("Did the player score more than 5 goals?", goals > 5);
