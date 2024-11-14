@@ -9,6 +9,17 @@ let favoriteTeams = [
   "Yanga",
 ];
 
+let playerForTeam = [
+  "Rooney",
+  "Ronaldinho",
+  "Robben",
+  "Lautaro",
+  "Messi",
+  "Olunga",
+  "Manyama",
+  "Maxi Zengeli",
+];
+
 for (let i = 0; i < favoriteTeams.length; i++) {
-  console.log("Team:", favoriteTeams[i]);
+  console.log("Team:", favoriteTeams[i], "-", playerForTeam[i]);
 }
