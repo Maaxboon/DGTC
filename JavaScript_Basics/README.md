@@ -29,3 +29,9 @@
 - Goal: Understand how to use loops to repeat code.
 - File: loops.js
 - Exercise: In loops.js, create a loop to display all the player’s favorite teams.
+
+6. Arrays and Objects
+
+- Goal: Get comfortable with storing and manipulating data in arrays and objects.
+- File: arrays_objects
+- Exercise: arrays_objects.js, create an array of players and an object for each player’s details.
