@@ -11,3 +11,9 @@
 - Goal: Learn how to use operators for basic math operations and comparisons.
 - File: operators.js
 - Exercise: In operators.js, create some variables to experiment with math operators.
+
+3. Functions
+
+- Goal: Understand how to create and call functions to organize and reuse code.
+- File: functions.js
+- Exercise: In functions.js, try creating a function that calculates the player’s success rate.
