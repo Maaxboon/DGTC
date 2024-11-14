@@ -9,3 +9,5 @@ function timeToReachCBD(distance, speed) {
 }
 let timeTaken = timeToReachCBD(26000, 3600);
 console.log("Time taken to reach CBD:", timeTaken + "hours");
+
+/*Learning Task: Experiment by changing the values for goals and attempts. */
