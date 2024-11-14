@@ -17,3 +17,9 @@
 - Goal: Understand how to create and call functions to organize and reuse code.
 - File: functions.js
 - Exercise: In functions.js, try creating a function that calculates the player’s success rate.
+
+4. Conditionals (if/else)
+
+- Goal: Learn to make decisions in code using if statements.
+- File: conditionals.js
+- Exercise: In conditionals.js, write a function to evaluate a player’s performance.
