@@ -4,7 +4,8 @@
 // Writing a function is known as function declaration or function definition
 
 //  The example below declares a function named average and invokes it later on.
-function average(number1, number2) {
-  return (number1 + number1) / 2;
-}
-average();
+
+// Invoking or calling a function
+/*Now that we've written a function how do we actually use it? Once defined a function can be invoked or called as many times as we please.
+
+When we invoke or call a function, we specify the data for a function to use. When we specify what data to use for a function call, we refer to that process as passing arguments to the function. */
