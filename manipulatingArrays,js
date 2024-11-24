@@ -1,0 +1,11 @@
+// The .push adds an element to the end of an array: changing or mutating the existing array
+
+const blueLine = ['Biker', 'Chillingam Road', 'Walkergate', 'Wallsend'];
+
+blueLine.push('Hadrian Road');
+
+console.log(blueLine); // ['Biker', 'Chillingam Road', 'Walkergate', 'Wallsend', 'Hadrian Road'];
+
+blueLine.push("Howdy", "Percy Main");
+
+console.log(blueLine);
