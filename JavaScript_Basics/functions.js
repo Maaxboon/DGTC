@@ -1,13 +1,11 @@
-function calculateSuccessRate(goals, attempts) {
-  return (goals / attempts) * 100;
-}
-let successRate = calculateSuccessRate(10, 15);
-console.log("Success Rate:", successRate + "%");
+// A function is a procedure of code that will run when called
+// When written we can use it as many times as we please.
+// We only write a function once
+// Writing a function is known as function declaration or function definition
 
-function timeToReachCBD(distance, speed) {
-  return distance / speed / 60;
-}
-let timeTaken = timeToReachCBD(26000, 3600);
-console.log("Time taken to reach CBD:", timeTaken + "hours");
+//  The example below declares a function named average and invokes it later on.
 
-/*Learning Task: Experiment by changing the values for goals and attempts. */
+// Invoking or calling a function
+/*Now that we've written a function how do we actually use it? Once defined a function can be invoked or called as many times as we please.
+
+When we invoke or call a function, we specify the data for a function to use. When we specify what data to use for a function call, we refer to that process as passing arguments to the function. */
