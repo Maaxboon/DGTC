@@ -1,4 +1,4 @@
-# Learning fundamentals of web development following Connoly's book
+# Fundamentals of Web Development Randy Connolly and Ricardo Hoar
 * Topics Covered so far:
 - Introduction to Web development
 - How the web works
