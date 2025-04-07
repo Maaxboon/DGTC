@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+
+    <head>
+        <title>Registration form</title>
+    </head>
+
+    <body>
+        <form action="/services/handle-form" method="post">
+            <fieldset>
+                <legend>Personal details</legend>
+                <label>
+                    First name:
+                    <input type="text" name="firstname" size="20" maxlength="50">
+                </label>
+                <br>
+                <label>
+                    Last name:
+                    <input type="text" name="lastname" size="30" maxlength="70">
+                </label>
+                <br>
+                <label>
+                    Email:
+                    <input type="email" name="email" size="20" maxlength="70">
+                </label>
+                <br>
+                <label>
+                    Paasword:
+                    <input type="password" name="email" size="20" maxlength="30">
+                </label>
+            </fieldset>
+            <fieldset>
+                <legend>Questionnaire</legend>
+                <label>
+                    Which browser do you use?
+                </label>
+                <p>
+                    <select name="browser" id="browser">
+                        <option value="chrome">Google Chrome</option>
+                        <option value="edge">Microsoft Edge</option>
+                        <option value="opera">Opera Mini</option>
+                        <option value="safari">Safari</option>
+                        <option value="firefox">Mozilla Firefox</option>
+                    </select>
+                </p>
+                <p>
+                    Do you like our website?
+                    <br>
+                    <label>
+                        <input type="radio" name="feedback" value="yes">
+                        Yes
+                    </label>
+                    <label>
+                        <input type="radio" name="feedback" value="no">
+                        No
+                    </label>
+                </p>
+                <p>
+                    <label for="improvements">
+                        Do you have any suggestions for improvement?
+                        <br>
+                        <textarea name="improvements" id="improvements" rows="5" cols="50"></textarea>
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <input type="checkbox" name="newsletter" id="newsletter">Would you like to subscribe to our
+                        newsletter?
+                    </label>
+                </p>
+            </fieldset>
+
+            <input type="submit" value="Submit form">
+        </form>
+    </body>
+
+</html>
