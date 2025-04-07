@@ -4,3 +4,4 @@
 
 1. Understanding the basics
 2. Structuring Web Pages with HTML
+3.  Designing Web Pages with CSS
