@@ -1,0 +1,61 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.9em;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+form {
+  padding: 1em;
+  background: #f9f9f9;
+  border: 1px solid lightgrey;
+  margin: 2rem auto auto auto;
+  max-width: 600px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+form input {
+  margin-bottom: 1rem;
+  background: white;
+  border: 1px solid darkgray;
+}
+
+form button {
+  background: lightgrey;
+  padding: 0.8em;
+  border: 0;
+}
+
+form button:hover {
+  background: deepskyblue;
+}
+
+label {
+  text-align: right;
+  display: block;
+  padding: 0.5em 1.5em 0.5em 0;
+}
+
+input {
+  padding: 0.7em;
+  margin-bottom: 0.5rem;
+  float: left;
+  width: calc(100% - 200px);
+}
+
+input:focus {
+  outline: 3px solid deepskyblue;
+}
+
+label {
+  float: left;
+  width: 200px;
+}
+
+button {
+  float: right;
+  width: calc(100% - 200px);
+}
