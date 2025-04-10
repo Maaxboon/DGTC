@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <title>Formatting uordered lists</title>
+
+        <style>
+            /* Formating unordered list */
+            ul.web-technologies li {
+                list-style-type: circle;
+            }
+
+            /* Formating ordered list */
+            ol.web-technologies li {
+                list-style-type: lower-roman;
+            }
+
+            /* Using images as bullets */
+            ul.books li {
+                list-style-image: url("images/star.png");
+            }
+        </style>
+
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <!-- Styling unordered lists -->
+        <article>
+            <h2>Unordered Lists</h2>
+            <p>
+            <ul class="web-technologies">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Node.js</li>
+                <li>Docker</li>
+            </ul>
+            </p>
+        </article>
+
+        <!-- Styling Ordered lists -->
+        <article>
+            <h2>Ordered Lists</h2>
+            <p>
+            <ol class="web-technologies">
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Node.js</li>
+                <li>Docker</li>
+            </ol>
+            </p>
+        </article>
+
+        <!-- Using images as bullets -->
+        <article>
+            <h2>Using images as bullets</h2>
+            <p>
+            <ul class="books">
+                <li>Carl Newport: "Deep Work"</li>
+                <li>James Clear: "Atomic Habits"</li>
+                <li>Greg McKeown: "Essentialism"</li>
+                <li>Nir Eyal: "Indistractable"</li>
+            </ul>
+            </p>
+        </article>
+    </body>
+
+</html>
