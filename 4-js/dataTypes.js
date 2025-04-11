@@ -15,3 +15,7 @@ const firstName = "Wuod"; // Double quotes
 const lastName = "Jadolo"; // Double quotes
 const age = "18"; // not a number but a string
 // const street = 'Bumbogo Cell"; // Syntax error: mixed form
+
+// Booleans
+const isLoggedIn = true;
+const isAdmin = false;
