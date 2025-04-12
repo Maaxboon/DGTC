@@ -25,3 +25,8 @@ console.log(colors);
 colors[3] = "orange";
 colors[4] = "yellow";
 console.log(colors);
+
+// Iteration over an array
+for (let i = 0; i <= colors.length; i++) {
+  console.log(colors[i]);
+}
