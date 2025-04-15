@@ -1,0 +1,2 @@
+Basically, web protocols define the way clients and servers communicate with each other.
+The protocol used between the browser (or client) and the server is HTTP
