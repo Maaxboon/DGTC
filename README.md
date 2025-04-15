@@ -7,3 +7,4 @@
 3. Designing Web Pages with CSS
 4. Making Web Pages Interactive with JavaScript
 5. Using Web Protocols
+6. Using Web Formats
