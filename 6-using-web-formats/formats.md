@@ -10,9 +10,17 @@
 - SVG: Scalable Vector Graphics
 - WebP
 
-# Video and Audio Formats
+# Video Formats
 - mp4
 - webm
 - ogg
 - mpeg
 - quicktime
+
+# Audio formats
+- m4a
+- mp3
+- ogg
+- wav
+- midi/mid
+- mp2
