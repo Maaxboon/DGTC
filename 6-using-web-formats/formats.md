@@ -9,3 +9,10 @@
 - PNG: Portable Network Graphics, mixture of GIF and PNG
 - SVG: Scalable Vector Graphics
 - WebP
+
+# Video and Audio Formats
+- mp4
+- webm
+- ogg
+- mpeg
+- quicktime
