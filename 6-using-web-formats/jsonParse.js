@@ -4,13 +4,13 @@ const jsonString = `{
 "phone": {
 "phone" : {
 "type" : "cell",
-"number" : "1234567890"
+"number" : 1234567890
 },
 "email" : "peter.doe@example.com",
 "address" : {
 "street" : "SampleStreet",
-"number":"99",
-"code":"12345",
+"number":99,
+"code":12345,
 "city":"Sample City"
 }
 }`;
