@@ -4,11 +4,11 @@
 - JSON: JavaScript Object Notation, simple structure and easy integration into JavaScript applications.
 
 # Image Formats
-- JPG/JPEG: Joint Photographic Experts Group
-- GIF: Graphics Interchange Format, have animations
-- PNG: Portable Network Graphics, mixture of GIF and PNG
+- JPG/JPEG: Joint Photographic Experts Group, suitable for photographs
+- GIF: Graphics Interchange Format, suitable for graphics and animations
+- PNG: Portable Network Graphics, combines the advantages of JPG and GIF
 - SVG: Scalable Vector Graphics
-- WebP
+- WebP, combines JPG and PNG but not supported by all browsers
 
 # Video Formats
 - mp4
