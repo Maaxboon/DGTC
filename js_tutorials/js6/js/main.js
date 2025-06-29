@@ -12,3 +12,6 @@ let randomLetter = myName[randomIndex];
 
 // print the random letter
 console.log(randomLetter);
+
+// Another way of approaching the problem
+console.log(myName.charAt(Math.floor(Math.random() * myName.length)));
